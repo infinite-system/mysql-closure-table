@@ -47,7 +47,13 @@ you can increase or decrease this number if you want. (10 trillion is large enou
 If the order_index is negative, we deduct the negative number from 10 trillion.
 If the order_index is positive we LPAD to 30 and prepend a 1 in front to make positive numbers always bigger than the negative numbers.
 DECIMAL(30, 15) allows fractions to 15 decimal places to account for any fractional order_index.
+
 **Result:**
+
+NOTE:
+\*\*\*\*\*\*\*\*\*\*\*\*
+are retracted lines, purchase here [Codecanyon Envato Marketplace](https://codecanyon.com).
+
 ```SQL
 SELECT SQL_CALC_FOUND_ROWS
  object.`id`,
