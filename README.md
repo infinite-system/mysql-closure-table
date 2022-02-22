@@ -1,8 +1,7 @@
 
 
 # Pure MySQL Closure Table Implementation
-## Infinite Unlimited depth Hierarchical Data Solution
-### Infinite Unlimited Categories / Sub-Categories System
+## Infinite Unlimited depth Hierarchical Data Solutionx
 #### Storage and Retrieval of Hierarchical Data in MySQL
 
 Copyright (c) Evgeny Kalashnikov 2019 - Infinity
@@ -14,7 +13,7 @@ Published here for exposure and examples of capabilities.
 \*\*\*\*\*\*\*\*\*\*\*\*
 are retracted lines
 
-### Purchase here [Codecanyon Envato Marketplace](https://codecanyon.com).
+### To purchase email me at ekalashnikov@gmail.com
 
 ## Infinite Levels Categories System
 
@@ -33,7 +32,7 @@ are retracted lines
 12. Bonus! SQL query that will output only a certain amount of sub-children from a sub-tree, so that a system like comments with only 2 or (n) loaded sub-comments can be made
 13. It is very fast queries taking 0.000s - 0.010s for simple trees
 
-### Purchase here [Codecanyon Envato Marketplace](https://codecanyon.com).
+### To purchase email me at ekalashnikov@gmail.com
 
 ## Select Objects by order_index
 ### Selecting all ROOT nodes
@@ -52,7 +51,7 @@ DECIMAL(30, 15) allows fractions to 15 decimal places to account for any fractio
 
 NOTE:
 \*\*\*\*\*\*\*\*\*\*\*\*
-are retracted lines, purchase here [Codecanyon Envato Marketplace](https://codecanyon.com).
+are retracted lines, to purchase email me at ekalashnikov@gmail.com
 
 ```SQL
 SELECT SQL_CALC_FOUND_ROWS
@@ -554,4 +553,4 @@ And if you move things in wrong directions like assigning a parent_id to it's ow
 Report any issues and bugs to ekalashnikov@gmail.com
 
 
-Purchase here [Codecanyon Envato Marketplace](https://codecanyon.com).
+To purchase email me at ekalashnikov@gmail.com
