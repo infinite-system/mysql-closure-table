@@ -7,13 +7,13 @@
 Copyright (c) Evgeny Kalashnikov 2019 - Infinity
 ekalashnikov@gmail.com
 
-## This is a retracted documentation of a purchasable item on CodeCanyon
+## This is a redacted documentation of a purchasable item on CodeCanyon
 Published here for exposure and examples of capabilities.
 
 \*\*\*\*\*\*\*\*\*\*\*\*
-are retracted lines
+are redacted lines
 
-### To purchase email me at ekalashnikov@gmail.com
+### To purchase this SQL script email me at ekalashnikov@gmail.com
 
 ## Infinite Levels Categories System
 
@@ -32,7 +32,7 @@ are retracted lines
 12. Bonus! SQL query that will output only a certain amount of sub-children from a sub-tree, so that a system like comments with only 2 or (n) loaded sub-comments can be made
 13. It is very fast queries taking 0.000s - 0.010s for simple trees
 
-### To purchase email me at ekalashnikov@gmail.com
+### To purchase this SQL script email me at ekalashnikov@gmail.com
 
 ## Select Objects by order_index
 ### Selecting all ROOT nodes
@@ -553,4 +553,4 @@ And if you move things in wrong directions like assigning a parent_id to it's ow
 Report any issues and bugs to ekalashnikov@gmail.com
 
 
-To purchase email me at ekalashnikov@gmail.com
+To purchase this SQL script email me at ekalashnikov@gmail.com
